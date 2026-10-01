@@ -1,0 +1,6 @@
+{
+  "name": "Radeon Joint Venture | Singapore Global Merchant Exporter",
+  "description": "Radeon Joint Venture is a Singapore-headquartered global merchandise exporter and international trade house, managing active bulk consignments, commodities, and transcontinental freight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
