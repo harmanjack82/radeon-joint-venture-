@@ -13,10 +13,10 @@ export const GlobalCorridorsSection: React.FC<GlobalCorridorsSectionProps> = ({
   const [selectedCorridor, setSelectedCorridor] = useState<TradeCorridor>(TRADE_CORRIDORS[0]);
 
   return (
-    <section id="corridors" className="py-20 lg:py-28 bg-slate-50 border-b border-slate-200">
+    <section id="corridors" className="pt-8 pb-16 lg:pt-10 lg:pb-24 bg-slate-50 border-b border-slate-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
-        <div className="mb-14 max-w-3xl">
+        <div className="mb-8 max-w-3xl">
           <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block mb-2 font-mono-trade">
             International Maritime Logistics · Singapore Nexus
           </span>

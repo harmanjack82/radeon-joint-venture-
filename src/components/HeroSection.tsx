@@ -12,7 +12,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
   onExplorePortfolios,
 }) => {
   return (
-    <section className="relative bg-gradient-to-b from-slate-50 via-white to-slate-50/50 pt-6 pb-16 lg:pt-8 lg:pb-24 border-b border-slate-200 overflow-hidden">
+    <section className="relative bg-gradient-to-b from-slate-50 via-white to-slate-50/50 pt-6 pb-8 lg:pt-8 lg:pb-10 border-b border-slate-200 overflow-hidden">
       {/* Background architectural grid */}
       <div className="absolute inset-0 bg-corporate-dots opacity-60 pointer-events-none" />
 
